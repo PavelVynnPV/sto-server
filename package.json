@@ -21,6 +21,9 @@
     "type": "git",
     "url": "git+https://github.com/PavelVynnPV/sto-server.git"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "bugs": {
     "url": "https://github.com/PavelVynnPV/sto-server/issues"
   },
