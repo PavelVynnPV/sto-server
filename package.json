@@ -1,5 +1,5 @@
 {
-  "homepage": "http://PavelVynnPV.github.io/sto-server",
+  "homepage": "https://localhost:3000/",
   "name": "server",
   "version": "1.0.0",
   "main": "server.js",
